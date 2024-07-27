@@ -278,7 +278,7 @@ As an alternative, one can use the `Dirac GOS <https://arxiv.org/abs/2405.10151>
 
 .. code-block:: python
 
-    >>> m = s.create_model(ll=ll, GOS="Dirac")
+    >>> m = s.create_model(ll=ll, GOS="dirac")
 
 
 Custom GOS saved in the `gosh <https://gitlab.com/gguzzina/gosh>`__ format can be used,
